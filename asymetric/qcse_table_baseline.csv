@@ -1,0 +1,2 @@
+R_base_nm,R_top_nm,H_qd_nm,t_wet_nm,FIT_MAX_kVcm,E0_F0_meV,StarkShift_at_Fmax_meV,a1_meV_per_kVcm,a2_meV_per_kVcm2,dipole_p_Cm,polariz_alpha_SI,centroid_shift_at_Fmax_nm,DeltaE10_at_Fmax_meV,FIELD_SIGN
+5.0,3.0,7.0,5.0,80.0,208.72883267440898,45.95625002759064,0.3477711107470355,-0.0006081238135830514,-5.571907476191265e-28,1.9486435294034736e-35,70.00343993251363,0.4408874440610332,-1.0
